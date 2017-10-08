@@ -10,9 +10,9 @@ MVP - simple smart contract for crowd money gathering (pool) for the common goal
     - integrate with metamask
 11/12.2017</br>
 More ui, customizable features of the amartpool contract. TBD
-1.2019</br>
+1.2018</br>
 Audit or bug hunting.
-2.2019</br>
+2.2018</br>
 Deploying on mainnet
 
 
